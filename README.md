@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I consider myself as a proactive person willing to take on new challenges to learn from them and adapt quickly for the benefit of the company. My academic background in biomedicine and full-stack developer has allowed me to develop skills in research, analysis, management of different programming languages, and above all teamwork. So far, in addition to Spanish, I am fluent in English and German.
 <!--
 **GabrielM20-1/GabrielM20-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
